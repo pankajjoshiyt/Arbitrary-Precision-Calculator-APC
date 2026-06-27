@@ -57,22 +57,21 @@ This project demonstrates the implementation of arithmetic algorithms using link
 
 ---
 
-# 📂 Project Structure
+
+# 📂 **Project Structure**
 
 ```text
 APC/
 │
-├── main.c
-├── apc.h
-├── addition.c
-├── subtraction.c
-├── multiplication.c
-├── division.c
-├── create_list.c
-├── helper_functions.c
-├── validation.c
-├── Makefile
-└── README.md
+├── README.md          # Project documentation
+├── a.out              # Compiled executable
+├── main.c             # Main function and program execution
+├── apc.h              # Header file with declarations
+├── apc.c              # Helper functions and linked list utilities
+├── add.c              # Addition operation
+├── sub.c              # Subtraction operation
+├── mul.c              # Multiplication operation
+└── div.c              # Division operation
 ```
 
 *(File names may vary depending on your implementation.)*
